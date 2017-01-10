@@ -30,11 +30,6 @@
        url: "https://github.com/ga-wdi-lessons/cli-intro"
        lead: "Erik"
        support: "Nayana"
-    - "1:30PM - 2:30PM":
-       title: "One on Ones"
-       url: "https://calendar.google.com/calendar/selfsched?sstoken=UUpvMzNzd0h2bzBLfGRlZmF1bHR8MDliNjllOTcxYzUzY2QyM2RhYThjZTEyOTViZDc1MjE"
-       lead: ""
-       support: ""
     - "2:30PM - 5:00PM":
        title: "Intro to Outcomes"
        url: "https://github.com/ga-dc/outcomes/tree/master/roadmap/week01"
@@ -83,11 +78,6 @@
        url: "https://github.com/ga-wdi-lessons/git-branching"
        lead: "Nayana"
        support: ""
-    - "1:30PM - 2:30PM":
-       title: "One on Ones"
-       url: ""
-       lead: ""
-       support: ""
     - "2:30PM - 04:30PM":
        title: "Lab: Portfolio Pages"
        url: "https://github.com/ga-wdi-exercises/portfolio_pages"
@@ -119,11 +109,6 @@
        url: "https://github.com/ga-wdi-lessons/js-intro"
        lead: "Erik"
        support: ""
-    - "1:30PM - 2:30PM":
-       title: "One on Ones"
-       url: ""
-       lead: ""
-       support: ""
     - "2:30PM - 5:00PM":
        title: "DOM with jQuery"
        url: "https://github.com/ga-wdi-lessons/jquery-dom"
@@ -139,11 +124,6 @@
        title: "Objects & Functions"
        url: "https://github.com/ga-wdi-lessons/js-objects-functions"
        lead: "Angel"
-       support: ""
-    - "1:30PM - 2:30PM":
-       title: "One on Ones"
-       url: ""
-       lead: ""
        support: ""
     - "2:30PM - 5:00PM":
        title: "Outcomes: Alumni Panel"
@@ -205,11 +185,6 @@
        url: "https://github.com/ga-wdi-exercises/project1"
        lead: ""
        support: ""
-    - "1:30PM - 2:30PM":
-       title: "One on Ones"
-       url: ""
-       lead: ""
-       support: ""
     - "2:30PM - 04:30PM":
        title: "Project 1"
        url: "https://github.com/ga-wdi-exercises/project1"
@@ -226,11 +201,6 @@
        url: "https://github.com/ga-wdi-exercises/project1"
        lead: ""
        support: ""
-    - "1:30PM - 2:30PM":
-       title: "One on Ones"
-       url: "https://calendar.google.com/calendar/selfsched?sstoken=UUo1eHRJMnRQX3dMfGRlZmF1bHR8MmIwNmRlNjU3YTRkMWViYTMxMGIzNjdmN2UxNjMwM2M"
-       lead: ""
-       support: ""
     - "2:30PM - 5:00PM":
        title: "Project 1"
        url: "https://github.com/ga-wdi-exercises/project1"
@@ -245,11 +215,6 @@
     - "10:30AM - 12:30PM":
        title: "Project 1 Presentations"
        url: "https://github.com/ga-wdi-exercises/project1"
-       lead: ""
-       support: ""
-    - "1:30PM - 2:30PM":
-       title: "One on Ones"
-       url: "https://calendar.google.com/calendar/selfsched?sstoken=UU13YkFnWjlzMklifGRlZmF1bHR8MGVmNzMyNjg1NmZiYmYxMTMwMGJjOWEzODczMTYyYmU"
        lead: ""
        support: ""
     - "2:30PM - 5:00PM":
@@ -311,11 +276,6 @@
        url: "https://github.com/ga-wdi-lessons/ruby-intro"
        lead: "James"
        support: ""
-    - "1:30PM - 2:30PM":
-       title: "One on Ones"
-       url: ""
-       lead: ""
-       support: ""
     - "2:30 - 5:00PM":
        title: "Ruby OOP 1"
        url: "https://github.com/ga-wdi-lessons/ruby-oop"
@@ -335,11 +295,6 @@
        title: "Ruby OOP 2"
        url: "https://github.com/ga-wdi-lessons/ruby-oop-inheritance"
        lead: "Andy"
-       support: ""
-    - "1:30PM - 2:30PM":
-       title: "One on Ones"
-       url: ""
-       lead: ""
        support: ""
     - "1:30PM - 2:30PM":
        title: "Office Hours"
@@ -364,11 +319,6 @@
        title: "Lab: Ruby Enums"
        url: "https://github.com/ga-wdi-exercises/state_capitals"
        lead: "Adrian"
-       support: ""
-    - "1:30PM - 2:30PM":
-       title: "One on Ones"
-       url: ""
-       lead: ""
        support: ""
     - "1:30PM - 2:30PM":
        title: "Office Hours"
@@ -434,11 +384,6 @@
        url: "https://github.com/ga-wdi-lessons/rspec"
        lead: "Erik"
        support: ""
-    - "1:30PM - 2:30PM":
-       title: "One on Ones"
-       url: ""
-       lead: ""
-       support: ""
     - "2:30PM - 5:00PM":
        title: "Sinatra 2"
        url: "https://github.com/ga-wdi-lessons/sinatra-rest"
@@ -459,11 +404,6 @@
        url: "https://github.com/ga-wdi-lessons/sinatra-and-activerecord"
        lead: "Nayana"
        support: ""
-    - "1:30PM - 2:30PM":
-       title: "One on Ones"
-       url: ""
-       lead: ""
-       support: ""
     - "2:30PM - 5:00PM":
        title: "Lab: Sinatra"
        url: "https://github.com/ga-wdi-exercises/pokenatra"
@@ -483,11 +423,6 @@
        title: "Lab: Sinatra"
        url: "https://github.com/ga-wdi-exercises/pokenatra"
        lead: "Adrian"
-       support: ""
-    - "1:30PM - 2:30PM":
-       title: "One on Ones"
-       url: ""
-       lead: ""
        support: ""
     - "2:30PM - 5:00PM":
        title: "Outcomes: Studio Tour"
@@ -559,11 +494,6 @@
        url: "https://github.com/ga-wdi-lessons/rails-routing"
        lead: "James"
        support: ""
-    - "1:30PM - 2:30PM":
-       title: "One on Ones"
-       url: ""
-       lead: ""
-       support: ""
     - "2:30PM - 5:00PM":
        title: "Lab: Hogwarts"
        url: "https://github.com/ga-wdi-exercises/hogwarts_rails"
@@ -582,11 +512,6 @@
        title: "Rails: Many-to-Many"
        url: "https://github.com/ga-wdi-lessons/rails-many-to-many"
        lead: "Angel"
-       support: ""
-    - "1:30PM - 2:30PM":
-       title: "One on Ones"
-       url: ""
-       lead: ""
        support: ""
     - "2:30PM - 5:00PM":
        title: "Outcomes: Defining Your Job Search Requirements"
@@ -646,31 +571,16 @@
        url: 'https://github.com/ga-wdi-exercises/project2'
        lead: ''
        support: ''
-    - "1:30PM - 2:30PM":
-       title: "One on Ones"
-       url: ""
-       lead: ""
-       support: ""
   - day:
     - "9:00AM - 5:00PM":
        title: 'Project 2'
        url: 'https://github.com/ga-wdi-exercises/project2'
        lead: ''
        support: ''
-    - "1:30PM - 2:30PM":
-       title: "One on Ones"
-       url: ""
-       lead: ""
-       support: ""
   - day:
     - "9:00AM - 12:30PM":
        title: "Project 2"
        url: "https://github.com/ga-wdi-exercises/project2"
-       lead: ""
-       support: ""
-    - "1:30PM - 2:30PM":
-       title: "One on Ones"
-       url: ""
        lead: ""
        support: ""
     - "2:30PM - 5:00PM":
@@ -723,11 +633,6 @@
        url: "https://github.com/ga-wdi-lessons/angular-intro"
        lead: "Erik"
        support: ""
-    - "1:30PM - 2:30PM":
-       title: "One on Ones"
-       url: ""
-       lead: ""
-       support: ""
     - "2:30PM - 5:00PM":
        title: "Lab: Superheroes"
        url: "https://github.com/ga-wdi-exercises/angular-superheroes"
@@ -748,11 +653,6 @@
        url: "https://github.com/ga-wdi-lessons/angular-routing"
        lead: "Angel"
        support: ""
-    - "1:30PM - 2:30PM":
-       title: "One on Ones"
-       url: ""
-       lead: ""
-       support: ""
     - "2:30PM - 5:00PM":
        title: "Angular: Firebase"
        url: "https://github.com/ga-wdi-lessons/angular-firebase"
@@ -771,11 +671,6 @@
        title: "Angular: Resources"
        url: "https://github.com/ga-wdi-lessons/angular-resources"
        lead: "Andy"
-       support: ""
-    - "1:30PM - 2:30PM":
-       title: "One on Ones"
-       url: ""
-       lead: ""
        support: ""
     - "2:30PM - 5:00PM":
        title: "Outcomes: Sharing Your Talents with GA Profiles & Portfolios"
@@ -831,31 +726,16 @@
        url: "https://github.com/ga-wdi-exercises/project3"
        lead: ""
        support: ""
-    - "1:30PM - 2:30PM":
-       title: "One on Ones"
-       url: ""
-       lead: ""
-       support: ""
   - day:
     - "9:00AM - 5:00PM":
        title: "Project 3"
        url: "https://github.com/ga-wdi-exercises/project3"
        lead: ""
        support: ""
-    - "1:30PM - 2:30PM":
-       title: "One on Ones"
-       url: ""
-       lead: ""
-       support: ""
   - day:
     - "9:00AM - 12:30PM":
        title: "Project 3"
        url: "https://github.com/ga-wdi-exercises/project3"
-       lead: ""
-       support: ""
-    - "1:30PM - 2:30PM":
-       title: "One on Ones"
-       url: ""
        lead: ""
        support: ""
     - "2:30PM - 5:00PM":
@@ -914,11 +794,6 @@
        url: "https://github.com/ga-wdi-lessons/websockets-node"
        lead: "James"
        support: ""
-    - "1:30PM - 2:30PM":
-       title: "One on Ones"
-       url: ""
-       lead: ""
-       support: ""
     - "2:30PM - 5:00 PM":
        title: "Express & Mongoose"
        url: "https://github.com/ga-wdi-lessons/express-mongoose"
@@ -939,11 +814,6 @@
        url: "https://github.com/ga-wdi-lessons/building-a-mean-app"
        lead: "Nayana"
        support: ""
-    - "1:30PM - 2:30PM":
-       title: "One on Ones"
-       url: ""
-       lead: ""
-       support: ""
     - "2:30PM - 5:00 PM":
        title: "Lab: MEAN"
        url: "https://github.com/ga-wdi-exercises/mean-lab"
@@ -962,11 +832,6 @@
        title: "Lab: MEAN"
        url: "https://github.com/ga-wdi-exercises/mean-lab"
        lead: "Angel"
-       support: ""
-    - "1:30PM - 2:30PM":
-       title: "One on Ones"
-       url: ""
-       lead: ""
        support: ""
     - "2:30PM - 5:00 PM":
        title: "Outcomes: Ask the Experts Panel Discussion (Hiring Managers and Recruiters)"
@@ -1040,11 +905,6 @@
        url: "https://github.com/ga-wdi-lessons/cs-algorithms"
        lead: "Adrian"
        support: ""
-    - "1:30PM - 2:30PM":
-       title: "One on Ones"
-       url: ""
-       lead: ""
-       support: ""
     - "2:30PM - 5:00 PM":
        title: "React: Continued"
        url: "https://github.com/ga-wdi-lessons/react-continued"
@@ -1063,11 +923,6 @@
        title: "React Router"
        url: ""
        lead: "Andy"
-       support: ""
-    - "1:30PM - 2:30PM":
-       title: "One on Ones"
-       url: ""
-       lead: ""
        support: ""
     - "2:30PM - 5:00 PM":
        title: "Lab: React Router"
@@ -1095,11 +950,6 @@
        title: "Redux: Intro"
        url: ""
        lead: "James"
-       support: ""
-    - "1:30PM - 2:30PM":
-       title: "One on Ones"
-       url: ""
-       lead: ""
        support: ""
     - "2:30PM - 5:00 PM":
        title: "Outcomes: Cracking the Technical Interview"
