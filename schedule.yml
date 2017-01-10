@@ -36,8 +36,8 @@
        lead: ""
        support: ""
     - "2:30PM - 5:00PM":
-       title: "Outcomes"
-       url: ""
+       title: "Intro to Outcomes"
+       url: "https://github.com/ga-dc/outcomes/tree/master/roadmap/week01"
     - "6:00PM - 8:00PM":
        title: "Office Hours"
        lead: "Adrian"
@@ -146,8 +146,8 @@
        lead: ""
        support: ""
     - "2:30PM - 5:00PM":
-       title: "Outcomes"
-       url: ""
+       title: "Outcomes: Alumni Panel"
+       url: "https://github.com/ga-dc/outcomes/tree/master/roadmap/week02"
        lead: ""
        support: ""
     - "6:00PM - 8:00PM":
@@ -253,8 +253,8 @@
        lead: ""
        support: ""
     - "2:30PM - 5:00PM":
-       title: "Outcomes"
-       url: ""
+       title: "Outcomes: The Winning Resume Package"
+       url: "https://github.com/ga-dc/outcomes/tree/master/roadmap/week03"
        lead: ""
        support: ""
   - day:
@@ -278,6 +278,11 @@
        title: "Slips"
        url: "https://github.com/ga-dc/slips"
        lead: "Erik"
+       support: ""
+    - "1:30PM - 2:15PM":
+       title: "Outcomes AMA"
+       lead: ""
+       url: ""
        support: ""
     - "10:00AM - 12:30PM":
        title: "Higher Order Functions"
@@ -370,8 +375,8 @@
        lead: ""
        support: ""
     - "2:30PM - 5:00PM":
-       title: "Outcomes"
-       url: ""
+       title: "Outcomes: Finding Your Voice & Defining Your Brand"
+       url: "https://github.com/ga-dc/outcomes/tree/master/roadmap/week04"
        lead: ""
        support: ""
     - "5:00PM":
@@ -485,8 +490,8 @@
        lead: ""
        support: ""
     - "2:30PM - 5:00PM":
-       title: "Outcomes"
-       url: ""
+       title: "Outcomes: Studio Tour"
+       url: "https://github.com/ga-dc/outcomes/tree/master/roadmap/week05"
        lead: ""
        support: ""
     - "6:00PM - 8:00PM":
@@ -584,8 +589,8 @@
        lead: ""
        support: ""
     - "2:30PM - 5:00PM":
-       title: "Outcomes"
-       lead: ""
+       title: "Outcomes: Defining Your Job Search Requirements"
+       lead: "https://github.com/ga-dc/outcomes/tree/master/roadmap/week06"
        support: ""
     - "6:00PM - 8:00PM":
        title: "Office Hours"
@@ -669,8 +674,8 @@
        lead: ""
        support: ""
     - "2:30PM - 5:00PM":
-       title: "Outcomes"
-       url: ""
+       title: "Outcomes: Preparing for the Interview & Talking Money"
+       url: "https://github.com/ga-dc/outcomes/tree/master/roadmap/week07"
        lead: ""
        support: ""
   - day:
@@ -773,8 +778,8 @@
        lead: ""
        support: ""
     - "2:30PM - 5:00PM":
-       title: "Outcomes"
-       url: ""
+       title: "Outcomes: Sharing Your Talents with GA Profiles & Portfolios"
+       url: "https://github.com/ga-dc/outcomes/tree/master/roadmap/week08"
        lead: ""
        support: ""
     - "6:00PM - 8:00PM":
@@ -854,8 +859,8 @@
        lead: ""
        support: ""
     - "2:30PM - 5:00PM":
-       title: "Outcomes"
-       url: ""
+       title: "Outcomes: Catch your Breath and Regroup"
+       url: "https://github.com/ga-dc/outcomes/tree/master/roadmap/week09"
        lead: ""
        support: ""
   - day:
@@ -964,7 +969,8 @@
        lead: ""
        support: ""
     - "2:30PM - 5:00 PM":
-       title: "Outcomes"
+       title: "Outcomes: Ask the Experts Panel Discussion (Hiring Managers and Recruiters)"
+       url: "https://github.com/ga-dc/outcomes/tree/master/roadmap/week10"
        lead: "Jesse"
        support: ""
     - "5:00PM":
@@ -1096,8 +1102,8 @@
        lead: ""
        support: ""
     - "2:30PM - 5:00 PM":
-       title: "Outcomes"
-       url: ""
+       title: "Outcomes: Cracking the Technical Interview"
+       url: "https://github.com/ga-dc/outcomes/tree/master/roadmap/week11/WDI"
        lead: ""
        support: ""
     - "6:00PM - 8:00PM":
@@ -1145,8 +1151,8 @@
        lead: ""
        support: ""
     - "2:30PM - 5:00PM":
-       title: "Outcomes"
-       url: ""
+       title: "Outcomes: Qualification Check-in"
+       url: "https://github.com/ga-dc/outcomes/tree/master/roadmap/week12/WDI"
        lead: ""
        support: ""
   - day:
