@@ -15,7 +15,7 @@
        title: "CSS 1"
        url: "https://github.com/ga-wdi-lessons/css-review"
        lead: "James"
-       support: ""
+       support: "Angel"
     - "6:00PM - 8:00PM":
        title: "Office Hours"
        lead: ""
@@ -47,12 +47,12 @@
        title: "Git 1"
        url: "https://github.com/ga-wdi-lessons/git-intro"
        lead: "Angel"
-       support: ""
+       support: "Adrian"
     - "2:30PM - 5:00PM":
        title: "CSS 2"
        url: "https://github.com/ga-wdi-lessons/css-flexbox"
        lead: "Andy"
-       support: ""
+       support: "Erik"
   - day:
     - "9:00AM - 5:00PM":
        title: "No Class: Inauguration Day"
@@ -72,7 +72,7 @@
        title: "Mini Lesson: Pseudocoding"
        url: ""
        lead: "Adrian"
-       support: ""
+       support: "Angel"
     - "10:00AM - 12:30PM":
        title: "Git 2"
        url: "https://github.com/ga-wdi-lessons/git-branching"
@@ -108,12 +108,12 @@
        title: "JS Intro"
        url: "https://github.com/ga-wdi-lessons/js-intro"
        lead: "Erik"
-       support: ""
+       support: "Adrian"
     - "2:30PM - 5:00PM":
        title: "DOM with jQuery"
        url: "https://github.com/ga-wdi-lessons/jquery-dom"
        lead: "Andy"
-       support: ""
+       support: "Adrian"
   - day:
     - "9:00AM - 10:00AM":
        title: "Outcomes Prep"
@@ -124,7 +124,7 @@
        title: "Objects & Functions"
        url: "https://github.com/ga-wdi-lessons/js-objects-functions"
        lead: "Angel"
-       support: ""
+       support: "James"
     - "2:30PM - 5:00PM":
        title: "Outcomes: Alumni Panel"
        url: "https://github.com/ga-dc/outcomes/tree/master/roadmap/week02"
@@ -143,12 +143,12 @@
        title: "Scope & Context"
        url: "https://github.com/ga-wdi-lessons/js-scope"
        lead: "Nayana"
-       support: ""
+       support: "Angel"
     - "2:30PM - 5:00PM":
        title: "Events & Callbacks"
        url: "https://github.com/ga-wdi-lessons/js-events-callbacks"
        lead: "Adrian"
-       support: ""
+       support: "James"
   - day:
     - "9:00AM":
        title: "Due At 9: Homework"
@@ -232,12 +232,12 @@
        title: "OOJS"
        url: "https://github.com/ga-wdi-lessons/js-prototypes-constructors"
        lead: "Adrian"
-       support: ""
+       support: "Andy"
     - "2:30PM - 5:00PM":
        title: "ES6"
        url: "https://github.com/ga-wdi-lessons/es6"
        lead: "Erik"
-       support: ""
+       support: "Angel"
   - day:
     - "9:00AM - 10:00AM":
        title: "Slips"
@@ -253,7 +253,7 @@
        title: "Higher Order Functions"
        url: ""
        lead: "Nayana"
-       support: ""
+       support: "Andy"
     - "2:30PM - 5:00PM":
        title: "Lab: OOJS"
        url: "https://github.com/ga-wdi-exercises/js-gladiator"
@@ -275,12 +275,12 @@
        title: "Intro to Ruby"
        url: "https://github.com/ga-wdi-lessons/ruby-intro"
        lead: "James"
-       support: ""
+       support: "Adrian"
     - "2:30 - 5:00PM":
        title: "Ruby OOP 1"
        url: "https://github.com/ga-wdi-lessons/ruby-oop"
        lead: "Angel"
-       support: ""
+       support: "Adrian"
     - "6:00PM - 8:00PM":
        title: "Office Hours"
        lead: ""
@@ -295,7 +295,7 @@
        title: "Ruby OOP 2"
        url: "https://github.com/ga-wdi-lessons/ruby-oop-inheritance"
        lead: "Andy"
-       support: ""
+       support: "Nayana"
     - "1:30PM - 2:30PM":
        title: "Office Hours"
        lead: ""
@@ -304,7 +304,7 @@
        title: "Ruby Enums"
        url: "https://github.com/ga-wdi-lessons/ruby-enumerables"
        lead: "Andy"
-       support: ""
+       support: "Erik"
     - "6:00PM - 8:00PM":
        title: "Office Hours"
        lead: ""
@@ -358,7 +358,7 @@
        title: "Sinatra 1"
        url: "https://github.com/ga-wdi-lessons/sinatra-rest"
        lead: "Nayana"
-       support: ""
+       support: "Erik"
   - day:
     - "9:00AM - 10:00AM":
        title: "Slips"
@@ -368,12 +368,12 @@
        title: "Domain Modeling & SQL"
        url: ""
        lead: "Adrian"
-       support: ""
+       support: "Andy"
     - "2:30PM - 5:00PM":
        title: "ActiveRecord"
        url: "https://github.com/ga-wdi-lessons/activerecord-intro"
        lead: "James"
-       support: ""
+       support: "Angel"
   - day:
     - "9:00AM - 10:00AM":
        title: "Checkpoint 04"
@@ -383,12 +383,12 @@
        title: "TDD"
        url: "https://github.com/ga-wdi-lessons/rspec"
        lead: "Erik"
-       support: ""
+       support: "Adrian"
     - "2:30PM - 5:00PM":
        title: "Sinatra 2"
        url: "https://github.com/ga-wdi-lessons/sinatra-rest"
        lead: "Angel"
-       support: ""
+       support: "James"
     - "5:00PM - 6:00PM":
        title: "One on Ones"
        url: ""
@@ -403,7 +403,7 @@
        title: "Sinatra & ActiveRecord"
        url: "https://github.com/ga-wdi-lessons/sinatra-and-activerecord"
        lead: "Nayana"
-       support: ""
+       support: "Andy"
     - "2:30PM - 5:00PM":
        title: "Lab: Sinatra"
        url: "https://github.com/ga-wdi-exercises/pokenatra"
@@ -450,12 +450,12 @@
        title: "Agile"
        url: "https://github.com/ga-wdi-lessons/agile"
        lead: "Erik"
-       support: ""
+       support: "James"
     - "2:30PM - 5:00PM":
        title: "Rails: Intro"
        url: ""
        lead: "Andy"
-       support: ""
+       support: "Nayana"
   - day:
     - "9:00AM":
        title: "Due At 9: Homework"
@@ -474,12 +474,12 @@
        title: "Rails: Models & Migrations"
        url: "https://github.com/ga-wdi-lessons/rails-activerecord"
        lead: "Adrian"
-       support: ""
+       support: "Andy"
     - "2:30PM - 5:00PM":
        title: "Rails: Views & Controllers"
        url: "https://github.com/ga-wdi-lessons/rails-views"
        lead: "Angel"
-       support: ""
+       support: "Nayana"
   - day:
     - "9:00AM - 5:00PM":
        title: "No Class: Presidents Day"
@@ -493,7 +493,7 @@
        title: "Rails: Routes & Resources"
        url: "https://github.com/ga-wdi-lessons/rails-routing"
        lead: "James"
-       support: ""
+       support: "Adrian"
     - "2:30PM - 5:00PM":
        title: "Lab: Hogwarts"
        url: "https://github.com/ga-wdi-exercises/hogwarts_rails"
@@ -512,7 +512,7 @@
        title: "Rails: Many-to-Many"
        url: "https://github.com/ga-wdi-lessons/rails-many-to-many"
        lead: "Angel"
-       support: ""
+       support: "James"
     - "2:30PM - 5:00PM":
        title: "Outcomes: Defining Your Job Search Requirements"
        lead: "https://github.com/ga-dc/outcomes/tree/master/roadmap/week06"
@@ -531,12 +531,12 @@
        title: "Users, Session & Flash"
        url: "https://github.com/ga-wdi-lessons/rails-users-sessions-flash-cookies"
        lead: "Andy"
-       support: ""
+       support: "Nayana"
     - "2:30PM - 5:00PM":
        title: "Devise"
        url: "https://github.com/ga-wdi-lessons/devise"
        lead: "Adrian"
-       support: ""
+       support: "James"
   - day:
     - "9:00AM":
        title: "Due At 9: Homework"
@@ -616,12 +616,12 @@
        title: "APIs & AJAX"
        url: "https://github.com/ga-wdi-lessons/js-ajax"
        lead: "Nayana"
-       support: ""
+       support: "Angel"
     - "2:30PM - 5:00PM":
        title: "Rails API"
        url: "https://github.com/ga-wdi-lessons/rails-api"
        lead: "James"
-       support: ""
+       support: "Andy"
   - day:
     - "9:00AM - 10:00AM":
        title: "Code Challenge"
@@ -632,7 +632,7 @@
        title: "Angular: Intro"
        url: "https://github.com/ga-wdi-lessons/angular-intro"
        lead: "Erik"
-       support: ""
+       support: "James"
     - "2:30PM - 5:00PM":
        title: "Lab: Superheroes"
        url: "https://github.com/ga-wdi-exercises/angular-superheroes"
@@ -652,12 +652,12 @@
        title: "Angular: UI Router"
        url: "https://github.com/ga-wdi-lessons/angular-routing"
        lead: "Angel"
-       support: ""
+       support: "Nayana"
     - "2:30PM - 5:00PM":
        title: "Angular: Firebase"
        url: "https://github.com/ga-wdi-lessons/angular-firebase"
        lead: "Adrian"
-       support: ""
+       support: "Erik"
     - "6:00PM - 8:00PM":
        title: "Office Hours"
        lead: ""
@@ -671,7 +671,7 @@
        title: "Angular: Resources"
        url: "https://github.com/ga-wdi-lessons/angular-resources"
        lead: "Andy"
-       support: ""
+       support: "James"
     - "2:30PM - 5:00PM":
        title: "Outcomes: Sharing Your Talents with GA Profiles & Portfolios"
        url: "https://github.com/ga-dc/outcomes/tree/master/roadmap/week08"
@@ -777,12 +777,12 @@
        title: "Mongoose"
        url: "https://github.com/ga-wdi-lessons/mongoose-intro"
        lead: "Erik"
-       support: ""
+       support: "Adrian"
     - "2:30PM - 5:00PM":
        title: "Intro to Express"
        url: "https://github.com/ga-wdi-lessons/express-intro"
        lead: "James"
-       support: ""
+       support: "Andy"
   - day:
     - "9:00AM - 10:00AM":
        title: "Code Challenge"
@@ -793,12 +793,12 @@
        title: "Websockets"
        url: "https://github.com/ga-wdi-lessons/websockets-node"
        lead: "James"
-       support: ""
+       support: "Angel"
     - "2:30PM - 5:00 PM":
        title: "Express & Mongoose"
        url: "https://github.com/ga-wdi-lessons/express-mongoose"
        lead: "Adrian"
-       support: ""
+       support: "Andy"
     - "6:00PM - 8:00PM":
        title: "Office Hours"
        lead: ""
@@ -813,7 +813,7 @@
        title: "Building a MEAN App"
        url: "https://github.com/ga-wdi-lessons/building-a-mean-app"
        lead: "Nayana"
-       support: ""
+       support: "Angel"
     - "2:30PM - 5:00 PM":
        title: "Lab: MEAN"
        url: "https://github.com/ga-wdi-exercises/mean-lab"
@@ -883,7 +883,7 @@
        title: "React: Intro"
        url: "https://github.com/ga-wdi-lessons/react-intro"
        lead: "Angel"
-       support: ""
+       support: "James"
     - "2:30PM - 5:00PM":
        title: "Lab: Component Extravaganza"
        url: "https://github.com/ga-wdi-exercises/component-extravaganza"
@@ -904,12 +904,12 @@
        title: "Computer Science"
        url: "https://github.com/ga-wdi-lessons/cs-algorithms"
        lead: "Adrian"
-       support: ""
+       support: "Nayana"
     - "2:30PM - 5:00 PM":
        title: "React: Continued"
        url: "https://github.com/ga-wdi-lessons/react-continued"
        lead: "Erik"
-       support: ""
+       support: "James"
     - "6:00PM - 8:00PM":
        title: "Office Hours"
        lead: ""
@@ -923,7 +923,7 @@
        title: "React Router"
        url: ""
        lead: "Andy"
-       support: ""
+       support: "Nayana"
     - "2:30PM - 5:00 PM":
        title: "Lab: React Router"
        url: ""
@@ -950,7 +950,7 @@
        title: "Redux: Intro"
        url: ""
        lead: "James"
-       support: ""
+       support: "Angel"
     - "2:30PM - 5:00 PM":
        title: "Outcomes: Cracking the Technical Interview"
        url: "https://github.com/ga-dc/outcomes/tree/master/roadmap/week11/WDI"
@@ -970,7 +970,7 @@
        title: "Redux: Continued"
        url: ""
        lead: "Nayana"
-       support: ""
+       support: "Angel"
     - "2:30PM - 5:00 PM":
        title: "Project 4 Intro"
        url: ""
