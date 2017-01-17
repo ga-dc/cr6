@@ -31,12 +31,12 @@
        lead: "Erik"
        support: "Nayana"
     - "2:30PM - 5:00PM":
-       title: "Intro to Outcomes"
+       title: "Intro to Outcomes (CR5)"
        url: "https://github.com/ga-dc/outcomes/tree/master/roadmap/week01"
     - "6:00PM - 8:00PM":
        title: "Office Hours"
-       lead: ""
-       support: ""
+       lead: "Sarah"
+       support: "James"
   - day:
     - "9:00 AM - 10:00 AM":
        title: "Code Challenge"
@@ -52,7 +52,7 @@
        title: "CSS 2"
        url: "https://github.com/ga-wdi-lessons/css-flexbox"
        lead: "Andy"
-       support: "Erik"
+       support: "James"
   - day:
     - "9:00AM - 5:00PM":
        title: "No Class: Inauguration Day"
@@ -72,6 +72,7 @@
          - To Oz: https://github.com/ga-wdi-exercises/to_oz
          - Haiku: https://github.com/ga-wdi-exercises/haiku
          - Wendy Bite: https://github.com/ga-wdi-exercises/wendy_bite
+         - HTML Intro: https://github.com/ga-wdi-lessons/html-intro"
        lead: ""
        support: ""
     - "9:00AM - 10:00AM":
