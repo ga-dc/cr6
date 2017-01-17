@@ -230,8 +230,8 @@
        support: ""
   - day:
     - "9:00AM - 10:00AM":
-       title: "Code Review: Project 1"
-       url: ""
+       title: "Project One Peer Pair Code Review"
+       url: "https://github.com/ga-wdi-lessons/peer-code-review"
        lead: "Angel"
        support: ""
     - "10:00AM - 12:30PM":
