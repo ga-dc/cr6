@@ -56,7 +56,13 @@
   - day:
     - "9:00AM - 5:00PM":
        title: "No Class: Inauguration Day"
-       lead: ""
+       url: ""
+       lead: "You"
+       support: ""
+    - "9:00AM - 5:00PM":
+       title: "Read HTML Intro"
+       url: "https://github.com/ga-wdi-lessons/html-intro"
+       lead: "You"
        support: ""
   - day:
     - "9:00AM":
