@@ -24,7 +24,7 @@
     - "9:00AM - 10:00AM":
        title: "Checkpoint 00"
        url: ""
-       lead: "Andy"
+       lead: "Adrian"
     - "10:00AM - 12:30PM":
        title: "CLI"
        url: "https://github.com/ga-wdi-lessons/cli-intro"
