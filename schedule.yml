@@ -30,6 +30,10 @@
        url: "https://github.com/ga-wdi-lessons/cli-intro"
        lead: "Erik"
        support: "Nayana"
+    - "1:30PM - 2:30PM":
+       title: "Office Hours"
+       lead: "Adrian"
+       support: ""
     - "2:30PM - 5:00PM":
        title: "Intro to Outcomes (CR5)"
        url: "https://github.com/ga-dc/outcomes/tree/master/roadmap/week01"
@@ -108,7 +112,7 @@
        color: red
        url: "https://github.com/ga-dc/outcomes/blob/master/roadmap/week02/HWWeek2.md"
        lead: ""
-       support: ""   
+       support: ""
     - "6:00PM - 8:00PM":
        title: "Office Hours"
        lead: ""
@@ -413,11 +417,6 @@
        url: "https://github.com/ga-wdi-lessons/sinatra-rest"
        lead: "Angel"
        support: "James"
-    - "5:00PM - 6:00PM":
-       title: "One on Ones"
-       url: ""
-       lead: ""
-       support: ""
   - day:
     - "9:00AM":
        title: "Code Challenge"
