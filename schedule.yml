@@ -173,6 +173,7 @@
        title: "Due At 9: Homework"
        color: red
        url:
+          - AirBNB: https://github.com/ga-wdi-exercises/css-airbnb
           - JS Calculator: https://github.com/ga-wdi-exercises/js-calculator
           - Choose Your Own Adventure: https://github.com/ga-wdi-exercises/choose_your_own_adventure_js
           - PixartJS: https://github.com/ga-wdi-exercises/pixart_js
