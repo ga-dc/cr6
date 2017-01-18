@@ -33,10 +33,12 @@
     - "2:30PM - 5:00PM":
        title: "Intro to Outcomes (CR5)"
        url: "https://github.com/ga-dc/outcomes/tree/master/roadmap/week01"
-    - "6:00PM - 8:00PM":
-       title: "Office Hours"
        lead: "Sarah"
        support: "James"
+    - "6:00PM - 8:00PM":
+       title: "Office Hours"
+       lead: "Nayana"
+       support: ""
   - day:
     - "9:00 AM - 10:00 AM":
        title: "Code Challenge"
