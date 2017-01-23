@@ -133,7 +133,7 @@
        support: "Adrian"
     - "1:30PM - 2:30PM":
        title: "Office Hours"
-       lead: "Erik"
+       lead: "Andy"
     - "2:30PM - 5:00PM":
        title: "DOM with jQuery"
        url: "https://github.com/ga-wdi-lessons/jquery-dom"
@@ -155,7 +155,7 @@
        support: "James"
     - "1:30PM - 2:30PM":
        title: "Office Hours"
-       lead: "Andy"
+       lead: "Erik"
     - "2:30PM - 5:00PM":
        title: "Outcomes: Alumni Panel"
        url: "https://github.com/ga-dc/outcomes/tree/master/roadmap/week02"
