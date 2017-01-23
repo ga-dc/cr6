@@ -91,6 +91,9 @@
        url: "https://github.com/ga-wdi-lessons/git-branching"
        lead: "Nayana"
        support: "Erik"
+    - "1:30PM - 2:30PM":
+       title: "Office Hours"
+       lead: "James"
     - "2:30PM - 04:30PM":
        title: "Lab: Portfolio Pages"
        url: "https://github.com/ga-wdi-exercises/portfolio_pages"
@@ -115,7 +118,7 @@
        support: ""
     - "6:00PM - 8:00PM":
        title: "Office Hours"
-       lead: ""
+       lead: "Adrian"
        support: ""
   - day:
     - "9:00AM - 10:00AM":
@@ -128,11 +131,17 @@
        url: "https://github.com/ga-wdi-lessons/js-intro"
        lead: "Erik"
        support: "Adrian"
+    - "1:30PM - 2:30PM":
+       title: "Office Hours"
+       lead: "Erik"
     - "2:30PM - 5:00PM":
        title: "DOM with jQuery"
        url: "https://github.com/ga-wdi-lessons/jquery-dom"
        lead: "Andy"
        support: "Adrian"
+    - "6:00PM - 8:00PM":
+       title: "Office Hours"
+       lead: "Nayana"
   - day:
     - "9:00AM - 10:00AM":
        title: "Outcomes Prep"
@@ -144,6 +153,9 @@
        url: "https://github.com/ga-wdi-lessons/js-objects-functions"
        lead: "Angel"
        support: "James"
+    - "1:30PM - 2:30PM":
+       title: "Office Hours"
+       lead: "Andy"
     - "2:30PM - 5:00PM":
        title: "Outcomes: Alumni Panel"
        url: "https://github.com/ga-dc/outcomes/tree/master/roadmap/week02"
@@ -151,7 +163,7 @@
        support: ""
     - "6:00PM - 8:00PM":
        title: "Office Hours"
-       lead: ""
+       lead: "Angel"
        support: ""
   - day:
     - "9:00AM - 10:00AM":
