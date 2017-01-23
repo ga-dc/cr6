@@ -221,6 +221,12 @@
        url: http://md.wdidc.org/#/2016-09-16-squad-scrum.md
        lead: ""
        support: ""
+    - "06:00PM":
+       title: "Due At 6: Outcomes Homework: What’s My Brand Worksheet"
+       color: red
+       url: "https://github.com/ga-dc/outcomes/blob/master/roadmap/week03/HWWeek3.md"
+       lead: ""
+       support: ""
   - day:
     - "9:00AM - 12:30PM":
        title: "Project 1"
