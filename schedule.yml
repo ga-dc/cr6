@@ -194,7 +194,7 @@
     - "10:00AM - 12:30PM":
        title: "Lab: ATM"
        url: "https://github.com/ga-wdi-exercises/atm"
-       lead: "Angel"
+       lead: "Adrian"
        support: ""
     - "12:30PM - 1:30PM":
        title: "Campus Lunch"
@@ -202,7 +202,7 @@
     - "2:30PM - 4:30PM":
        title: "Lab: ATM"
        url: "https://github.com/ga-wdi-exercises/atm"
-       lead: "Adrian"
+       lead: "Angel"
        support: ""
     - "4:30PM - 5:00PM":
        title: "Squad Scrum & Intro to Project 1"
