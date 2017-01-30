@@ -252,23 +252,18 @@
     - "2:30PM - 4:30PM":
        title: "Project 1"
        url: "https://github.com/ga-wdi-exercises/project1"
-       lead: "Erik"
-       support: "Angel"
-  - day:
-    - "10:00AM - 12:00AM":
-       title: "Project 1"
-       url: "https://github.com/ga-wdi-exercises/project1"
        lead: "Adrian"
        support: "Andy"
+  - day:
     - "10:30AM - 12:30PM":
        title: "Project 1 Presentations"
        url: "https://github.com/ga-wdi-exercises/project1"
        lead: "Nayana"
-       support: "James"
+       support: "Angel"
     - "2:30PM - 5:00PM":
        title: "Outcomes: The Winning Resume Package"
        url: "https://github.com/ga-dc/outcomes/tree/master/roadmap/week03"
-       lead: ""
+       lead: "Andy"
        support: ""
   - day:
     - "9:00AM - 10:00AM":
