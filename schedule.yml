@@ -327,6 +327,12 @@
        url: "https://github.com/ga-wdi-lessons/ruby-oop"
        lead: "Angel"
        support: "Adrian"
+    - "6:00PM":
+       title: "Due At 6: Outcomes Homework: What’s Your Brand Worksheet Part 2"
+       color: red
+       url: "https://github.com/ga-dc/outcomes/tree/master/roadmap/week04/HWweek4.md"
+       lead: ""
+       support: ""       
     - "6:00PM - 8:00PM":
        title: "Office Hours"
        lead: ""
