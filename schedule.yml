@@ -261,10 +261,10 @@
        lead: "Nayana"
        support: "Angel"
     - "2:30PM - 5:00PM":
-       title: "Outcomes: The Winning Resume Package"
+       title: "Outcomes: Finding Your Voice & Defining Your Brand"
        url: "https://github.com/ga-dc/outcomes/tree/master/roadmap/week03"
-       lead: "Andy"
-       support: ""
+       lead: ""
+       support: "Andy"
   - day:
     - "9:00AM - 10:00AM":
        title: "Project One Peer Pair Code Review"
@@ -371,7 +371,7 @@
        lead: ""
        support: ""
     - "2:30PM - 5:00PM":
-       title: "Outcomes: Finding Your Voice & Defining Your Brand"
+       title: "Outcomes: The Winning Resume Package"
        url: "https://github.com/ga-dc/outcomes/tree/master/roadmap/week04"
        lead: ""
        support: ""
