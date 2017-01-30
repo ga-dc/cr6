@@ -227,21 +227,16 @@
        url: "https://github.com/ga-wdi-exercises/checkpoint-02"
        lead: "Adrian"
        support: ""
-    - "2:30PM - 04:30PM":
+    - "10:00PM - 12:00PM":
        title: "Project 1"
        url: "https://github.com/ga-wdi-exercises/project1"
-       lead: ""
-       support: ""
-    - "2:30PM - 04:30PM":
+       lead: "Andy"
+       support: "Angel"
+    - "2:30PM - 4:30PM":
        title: "Project 1"
        url: "https://github.com/ga-wdi-exercises/project1"
-       lead: ""
-       support: ""
-    - "4:30PM - 5:00PM":
-       title: "Squad Scrum"
-       url: http://md.wdidc.org/#/2016-09-16-squad-scrum.md
-       lead: ""
-       support: ""
+       lead: "Adrian"
+       support: "Erik"
     - "06:00PM":
        title: "Due At 6: Outcomes Homework: What’s My Brand Worksheet"
        color: red
@@ -249,27 +244,27 @@
        lead: ""
        support: ""
   - day:
-    - "9:00AM - 12:30PM":
+    - "10:00AM - 12:00PM":
        title: "Project 1"
        url: "https://github.com/ga-wdi-exercises/project1"
-       lead: ""
-       support: ""
-    - "2:30PM - 5:00PM":
+       lead: "Nayana"
+       support: "James"
+    - "2:30PM - 4:30PM":
        title: "Project 1"
        url: "https://github.com/ga-wdi-exercises/project1"
-       lead: "Open Office Hours 2-4"
-       support: ""
+       lead: "Erik"
+       support: "Angel"
   - day:
-    - "9:00AM - 10:30AM":
+    - "10:00AM - 12:00AM":
        title: "Project 1"
        url: "https://github.com/ga-wdi-exercises/project1"
-       lead: ""
-       support: ""
+       lead: "Adrian"
+       support: "Andy"
     - "10:30AM - 12:30PM":
        title: "Project 1 Presentations"
        url: "https://github.com/ga-wdi-exercises/project1"
-       lead: ""
-       support: ""
+       lead: "Nayana"
+       support: "James"
     - "2:30PM - 5:00PM":
        title: "Outcomes: The Winning Resume Package"
        url: "https://github.com/ga-dc/outcomes/tree/master/roadmap/week03"
