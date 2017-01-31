@@ -390,7 +390,7 @@
        title: "Outcomes: The Winning Resume Package"
        url: "https://github.com/ga-dc/outcomes/tree/master/roadmap/week04"
        lead: ""
-       support: ""
+       support: "Nayana"
     - "5:00PM":
        title: "Due At 5: Lab"
        color: red
@@ -485,7 +485,7 @@
        title: "Outcomes: Studio Tour"
        url: "https://github.com/ga-dc/outcomes/tree/master/roadmap/week05"
        lead: ""
-       support: ""
+       support: "James"
     - "6:00PM - 8:00PM":
        title: "Office Hours"
        lead: ""
@@ -572,8 +572,8 @@
        support: "James"
     - "2:30PM - 5:00PM":
        title: "Outcomes: Defining Your Job Search Requirements"
-       lead: "https://github.com/ga-dc/outcomes/tree/master/roadmap/week06"
-       support: ""
+       url: "https://github.com/ga-dc/outcomes/tree/master/roadmap/week06"
+       support: "Adrian"
     - "6:00PM - 8:00PM":
        title: "Office Hours"
        lead: ""
@@ -644,7 +644,7 @@
        title: "Outcomes: Preparing for the Interview & Talking Money"
        url: "https://github.com/ga-dc/outcomes/tree/master/roadmap/week07"
        lead: ""
-       support: ""
+       support: "Erik"
   - day:
     - "9:00AM - 12:30PM":
        title: "Project 2"
@@ -733,7 +733,7 @@
        title: "Outcomes: Sharing Your Talents with GA Profiles & Portfolios"
        url: "https://github.com/ga-dc/outcomes/tree/master/roadmap/week08"
        lead: ""
-       support: ""
+       support: "Andy"
     - "6:00PM - 8:00PM":
        title: "Office Hours"
        lead: ""
@@ -799,7 +799,7 @@
        title: "Outcomes: Catch your Breath and Regroup"
        url: "https://github.com/ga-dc/outcomes/tree/master/roadmap/week09"
        lead: ""
-       support: ""
+       support: "Angel"
   - day:
     - "9:00AM - 12:30PM":
        title: "Project 3"
@@ -893,8 +893,8 @@
     - "2:30PM - 5:00 PM":
        title: "Outcomes: Ask the Experts Panel Discussion (Hiring Managers and Recruiters)"
        url: "https://github.com/ga-dc/outcomes/tree/master/roadmap/week10"
-       lead: "Jesse"
-       support: ""
+       lead: ""
+       support: "Nayana"
     - "5:00PM":
        title: "Due At 5: MEAN Lab"
        color: red
@@ -1012,7 +1012,7 @@
        title: "Outcomes: Cracking the Technical Interview"
        url: "https://github.com/ga-dc/outcomes/tree/master/roadmap/week11/WDI"
        lead: ""
-       support: ""
+       support: "James"
     - "6:00PM - 8:00PM":
        title: "Office Hours"
        lead: ""
@@ -1061,7 +1061,7 @@
        title: "Outcomes: Qualification Check-in"
        url: "https://github.com/ga-dc/outcomes/tree/master/roadmap/week12/WDI"
        lead: ""
-       support: ""
+       support: "Adrian"
   - day:
     - "9:00AM - 5:00PM":
        title: "Project 4"
