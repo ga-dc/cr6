@@ -230,13 +230,13 @@
     - "10:00PM - 12:00PM":
        title: "Project 1"
        url: "https://github.com/ga-wdi-exercises/project1"
-       lead: "Andy"
-       support: "Angel"
+       lead: ""
+       support: ""
     - "2:30PM - 4:30PM":
        title: "Project 1"
        url: "https://github.com/ga-wdi-exercises/project1"
-       lead: "Adrian"
-       support: "Erik"
+       lead: ""
+       support: ""
     - "06:00PM":
        title: "Due At 6: Outcomes Homework: What’s My Brand Worksheet"
        color: red
@@ -244,22 +244,27 @@
        lead: ""
        support: ""
   - day:
-    - "10:00AM - 12:00PM":
+    - "9:00AM - 12:30PM":
        title: "Project 1"
        url: "https://github.com/ga-wdi-exercises/project1"
-       lead: "Nayana"
-       support: "James"
-    - "2:30PM - 4:30PM":
+       lead: ""
+       support: ""
+    - "2:30PM - 5:00PM":
        title: "Project 1"
        url: "https://github.com/ga-wdi-exercises/project1"
-       lead: "Adrian"
-       support: "Andy"
+       lead: ""
+       support: ""
   - day:
+    - "9:00AM - 10:15AM":
+       title: "Project 1"
+       url: "https://github.com/ga-wdi-exercises/project1"
+       lead: ""
+       support: ""
     - "10:30AM - 12:30PM":
        title: "Project 1 Presentations"
        url: "https://github.com/ga-wdi-exercises/project1"
-       lead: "Nayana"
-       support: "Angel"
+       lead: ""
+       support: ""
     - "2:30PM - 5:00PM":
        title: "Outcomes: Finding Your Voice & Defining Your Brand"
        url: "https://github.com/ga-dc/outcomes/tree/master/roadmap/week03"
