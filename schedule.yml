@@ -378,19 +378,19 @@
        lead: ""
        support: ""
     - "10:00AM - 12:30PM":
-       title: "Lab: Ruby Enums"
-       url: "https://github.com/ga-wdi-exercises/state_capitals"
-       lead: "Adrian"
-       support: ""
+       title: "Outcomes: The Winning Resume Package"
+       url: "https://github.com/ga-dc/outcomes/tree/master/roadmap/week04"
+       lead: ""
+       support: "Nayana"
     - "1:30PM - 2:30PM":
        title: "Office Hours"
        lead: ""
        support: ""
     - "2:30PM - 5:00PM":
-       title: "Outcomes: The Winning Resume Package"
-       url: "https://github.com/ga-dc/outcomes/tree/master/roadmap/week04"
-       lead: ""
-       support: "Nayana"
+       title: "Lab: Ruby Enums"
+       url: "https://github.com/ga-wdi-exercises/state_capitals"
+       lead: "Adrian"
+       support: ""
     - "5:00PM":
        title: "Due At 5: Lab"
        color: red
