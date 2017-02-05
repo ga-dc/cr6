@@ -325,7 +325,7 @@
        support: ""
     - "9:00AM - 10:00AM":
        title: "Checkpoint 03"
-       url: "https://github.com/ga-wdi-exercises/checkpoint-03"
+       url: ""
        lead: "Adrian"
     - "10:00AM - 12:30PM":
        title: "Intro to Ruby"
