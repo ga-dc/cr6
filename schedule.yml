@@ -304,7 +304,7 @@
        support: ""
     - "10:00AM - 12:30PM":
        title: "Higher Order Functions"
-       url: ""
+       url: "https://github.com/ga-wdi-lessons/functional-programming"
        lead: "Nayana"
        support: "Andy"
     - "2:30PM - 5:00PM":
