@@ -360,7 +360,7 @@
        support: "Nayana"
     - "1:30PM - 2:30PM":
        title: "Office Hours"
-       lead: ""
+       lead: "Erik"
        support: ""
     - "2:30PM - 5:00PM":
        title: "Ruby Enums"
@@ -369,7 +369,7 @@
        support: "Erik"
     - "6:00PM - 8:00PM":
        title: "Office Hours"
-       lead: ""
+       lead: "Andy"
        support: ""
   - day:
     - "9:00AM - 10:00AM":
@@ -384,7 +384,7 @@
        support: "Nayana"
     - "1:30PM - 2:30PM":
        title: "Office Hours"
-       lead: ""
+       lead: "Angel"
        support: ""
     - "2:30PM - 5:00PM":
        title: "Lab: Ruby Enums"
@@ -399,7 +399,7 @@
        support: ""
     - "6:00PM - 8:00PM":
        title: "Office Hours"
-       lead: ""
+       lead: "Adrian"
        support: ""
   - day:
     - "9:00AM":
