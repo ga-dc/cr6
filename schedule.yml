@@ -436,6 +436,11 @@
        url: ""
        lead: "Adrian"
        support: "Andy"
+    - "12:30PM - 1:30PM":
+       title: "Campus Lunch"
+       url: ""
+       lead: ""
+       support: ""
     - "2:30PM - 5:00PM":
        title: "ActiveRecord"
        url: "https://github.com/ga-wdi-lessons/activerecord-intro"
