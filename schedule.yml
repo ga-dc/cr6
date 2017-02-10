@@ -433,7 +433,7 @@
        support: ""
     - "10:00AM - 12:30PM":
        title: "Domain Modeling & SQL"
-       url: ""
+       url: "https://github.com/ga-wdi-lessons/sql-intro"
        lead: "Adrian"
        support: "Andy"
     - "12:30PM - 1:30PM":
