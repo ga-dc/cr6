@@ -485,7 +485,7 @@
        url: "https://github.com/ga-wdi-exercises/pokenatra"
        lead: "Erik"
        support: ""
-    - "4:30PM - 5:00PM"
+    - "4:30PM - 5:00PM":
        title: "Squad Scrum"
        url: ""
        lead: ""
