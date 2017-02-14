@@ -480,10 +480,15 @@
        url: "https://github.com/ga-wdi-lessons/sinatra-and-activerecord"
        lead: "Nayana"
        support: "Andy"
-    - "2:30PM - 5:00PM":
+    - "2:30PM - 4:30PM":
        title: "Lab: Sinatra"
        url: "https://github.com/ga-wdi-exercises/pokenatra"
        lead: "Erik"
+       support: ""
+    - "4:30PM - 5:00PM"
+       title: "Squad Scrum"
+       url: ""
+       lead: ""
        support: ""
     - "6:00PM - 8:00PM":
        title: "Office Hours"
