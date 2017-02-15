@@ -525,6 +525,12 @@
        url: "https://github.com/ga-dc/outcomes/tree/master/roadmap/week05"
        lead: ""
        support: "James"
+    - "5:00PM":
+       title: "Due At 5: Lab"
+       color: red
+       url: "https://github.com/ga-wdi-exercises/pokenatra"
+       lead: ""
+       support: ""
     - "6:00PM - 8:00PM":
        title: "Office Hours"
        lead: "Adrian"
