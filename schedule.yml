@@ -456,6 +456,11 @@
        url: "https://github.com/ga-wdi-lessons/rspec"
        lead: "Erik"
        support: "Adrian"
+    - "1:30PM - 2:30PM":
+       title: "Office Hours"
+       url: ""
+       lead: "James"
+       support: ""
     - "2:30PM - 5:00PM":
        title: "Sinatra 2"
        url: "https://github.com/ga-wdi-lessons/sinatra-rest"
@@ -480,6 +485,11 @@
        url: "https://github.com/ga-wdi-lessons/sinatra-and-activerecord"
        lead: "Nayana"
        support: "Andy"
+    - "1:30PM - 2:30PM":
+       title: "Office Hours"
+       url: ""
+       lead: "Andy"
+       support: ""
     - "2:30PM - 4:30PM":
        title: "Lab: Sinatra"
        url: "https://github.com/ga-wdi-exercises/pokenatra"
@@ -504,6 +514,11 @@
        title: "Lab: Sinatra"
        url: "https://github.com/ga-wdi-exercises/pokenatra"
        lead: "Adrian"
+       support: ""
+    - "1:30PM - 2:30PM":
+       title: "Office Hours"
+       url: ""
+       lead: "Erik"
        support: ""
     - "2:30PM - 5:00PM":
        title: "Outcomes: Studio Tour"
