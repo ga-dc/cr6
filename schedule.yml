@@ -744,6 +744,10 @@
        url: "https://github.com/ga-wdi-exercises/angular-superheroes"
        lead: "James"
        support: ""
+    - "6:00PM":
+       title: "Due At 6pm: Outcomes Homework:Final Resume"
+       color: red
+       url: "https://github.com/ga-dc/outcomes/blob/master/roadmap/week08/HWweek8.md"
     - "6:00PM - 8:00PM":
        title: "Office Hours"
        lead: ""
