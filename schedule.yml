@@ -1035,10 +1035,10 @@
        lead: "Andy"
        support: "Nayana"
     - "2:30PM - 5:00 PM":
-       title: "Lab: React Router"
-       url: ""
-       lead: "Adrian"
-       support: ""
+       title: "Outcomes: Cracking the Technical Interview"
+       url: "https://github.com/ga-dc/outcomes/tree/master/roadmap/week11/WDI"
+       lead: ""
+       support: "James"
     - "6:00PM - 8:00PM":
        title: "Office Hours"
        lead: ""
@@ -1057,15 +1057,15 @@
        lead: ""
        support: ""
     - "10:00AM - 12:30PM":
+       title: "Lab: React Router"
+       url: ""
+       lead: "Adrian"
+       support: ""
+    - "2:30PM - 5:00PM":
        title: "Redux: Intro"
        url: ""
        lead: "James"
        support: "Angel"
-    - "2:30PM - 5:00 PM":
-       title: "Outcomes: Cracking the Technical Interview"
-       url: "https://github.com/ga-dc/outcomes/tree/master/roadmap/week11/WDI"
-       lead: ""
-       support: "James"
     - "6:00PM - 8:00PM":
        title: "Office Hours"
        lead: ""
