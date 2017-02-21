@@ -588,6 +588,10 @@
        url: "https://github.com/ga-wdi-lessons/rails-routing"
        lead: "James"
        support: "Adrian"
+    - "1:30PM - 2:30PM":
+       title: "Office Hours"
+       url: ""
+       lead: "Andy"
     - "2:30PM - 5:00PM":
        title: "Lab: Hogwarts"
        url: "https://github.com/ga-wdi-exercises/hogwarts_rails"
@@ -601,7 +605,7 @@
        support: ""
     - "6:00PM - 8:00PM":
        title: "Office Hours"
-       lead: ""
+       lead: "Adrian"
        support: ""
   - day:
     - "9:00AM - 10:00AM":
@@ -613,13 +617,17 @@
        url: "https://github.com/ga-wdi-lessons/rails-many-to-many"
        lead: "Angel"
        support: "James"
+    - "1:30PM - 2:30PM":
+       title: "Office Hours"
+       url: ""
+       lead: "Angel"
     - "2:30PM - 5:00PM":
        title: "Outcomes: Defining Your Job Search Requirements"
        url: "https://github.com/ga-dc/outcomes/tree/master/roadmap/week06"
        support: "Nayana"
     - "6:00PM - 8:00PM":
        title: "Office Hours"
-       lead: ""
+       lead: "James"
        support: ""
   - day:
     - "9:00AM - 10:00AM":
@@ -632,11 +640,19 @@
        url: "https://github.com/ga-wdi-lessons/rails-users-sessions-flash-cookies"
        lead: "Nayana"
        support: "Andy"
+    - "1:30PM - 2:30PM":
+       title: "Office Hours"
+       url: ""
+       lead: "Erik"
     - "2:30PM - 5:00PM":
        title: "Devise"
        url: "https://github.com/ga-wdi-lessons/devise"
        lead: "Adrian"
        support: "James"
+    - "6:00PM - 8:00PM":
+       title: "Office Hours"
+       url: ""
+       lead: "Nayana"
   - day:
     - "9:00AM":
        title: "Due At 9: Homework"
