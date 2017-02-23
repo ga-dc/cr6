@@ -798,11 +798,11 @@
        url: "https://github.com/ga-wdi-lessons/angular-resources"
        lead: "Andy"
        support: "James"
-    - "2:30PM - 5:00PM":
-       title: "Outcomes: Sharing Your Talents with GA Profiles & Portfolios"
-       url: "https://github.com/ga-dc/outcomes/tree/master/roadmap/week08"
+    - "1:15PM - 4:30PM":
+       title: "Outcomes: Headshots"
+       url: "https://github.com/ga-dc/wdi14/blob/master/head-shots-schedule.md"
        lead: ""
-       support: "Andy"
+       support: ""
     - "6:00PM - 8:00PM":
        title: "Office Hours"
        lead: ""
