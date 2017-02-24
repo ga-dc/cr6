@@ -671,9 +671,9 @@
        lead: 'Andy'
        support: ''
     - "4:30PM - 5:00PM":
-       title: 'Project 2 Intro'
+       title: 'Squad Scrum / Project 2 Intro'
        url: 'https://github.com/ga-wdi-exercises/project2'
-       lead: 'Adrian'
+       lead: ''
        support: ''
   - day:
     - "9:00AM":
