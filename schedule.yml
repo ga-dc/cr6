@@ -725,9 +725,20 @@
        url: "https://github.com/ga-wdi-exercises/project2"
        lead: ""
        support: ""
-    - "2:30PM - 5:00PM":
-       title: "Project 2 Presentations"
+    - "12:00PM":
+       title: "Due At Noon: Project & Video"
+       color: red
        url: "https://github.com/ga-wdi-exercises/project2"
+       lead: ""
+       support: ""
+    - "2:00PM - 4:30PM":
+       title: "Project 2 Presentations"
+       url: "https://github.com/ga-wdi-exercises/project2/blob/master/presentations.md"
+       lead: ""
+       support: ""
+    - "2:30PM - 5:00PM":
+       title: "Squad Scrum"
+       url: ""
        lead: ""
        support: ""
   - day:
