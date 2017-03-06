@@ -747,8 +747,8 @@
   - day:
     - "9:00AM - 10:00AM":
        title: "Code Challenge"
-       url: ""
-       lead: "Adrian"
+       url: "https://github.com/ga-wdi-exercises/fuzz-business"
+       lead: "Andy"
        support: ""
     - "10:00AM - 12:30PM":
        title: "Angular: Intro"
