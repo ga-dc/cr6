@@ -828,6 +828,11 @@
        url: "https://github.com/ga-dc/wdi14/blob/master/head-shots-schedule.md"
        lead: ""
        support: ""
+    - "2:30PM - 4:30PM":
+       title: "Outcomes: Sharing Your Talents"
+       url: "https://github.com/ga-dc/outcomes/tree/master/roadmap/week08"
+       lead: ""
+       support: ""
     - "6:00PM - 8:00PM":
        title: "Office Hours"
        lead: "Adrian"
