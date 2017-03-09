@@ -866,9 +866,18 @@
        lead: ""
        support: ""
   - day:
+    - "9:00AM":
+       title: "Due At 9: Submit Project 3 Idea"
+       color: red
+       url: "https://github.com/ga-wdi-exercises/project3/issues"
+       lead: ""
+       support: ""
     - "9:00AM - 10:00AM":
-       title: "Project 3 Intro + Git Teams"
-       lead: "Adrian"
+       title: "Project 3 Intro & Git Teams"
+       url:
+         - Project 3: "https://github.com/ga-wdi-exercises/project3"
+         - Git Teams: "https://github.com/ga-wdi-lessons/git-teams"
+       lead: ""
        support: ""
     - "10:00AM - 5:00PM":
        title: "Project 3"
