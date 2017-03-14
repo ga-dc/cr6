@@ -1207,31 +1207,64 @@
        url: "https://github.com/ga-dc/after-wdi"
        lead: ""
        support: ""
-
   - day:
-    - "9:00AM - 12:30PM":
-       title: "Testin"
-       url: "https://github.com/ga-wdi-exercises/project4"
-       lead: ""
-       support: ""
-    - "2:00PM - 3:30PM":
-       title: "Project 4 Presentations"
-       url: "https://github.com/ga-wdi-exercises/project4#presentations"
-       lead: ""
-       support: ""
-    - "3:30PM - 4:00PM":
-       title: "Feedback-Back"
+    - "9:00AM - 5:00PM":
+       title: "Post WDI"
        url: ""
        lead: ""
        support: ""
-    - "4:00PM - 4:30PM":
-       title: "Final Scrum"
+  - day:
+    - "9:00AM - 5:00PM":
+       title: "Post WDI"
        url: ""
        lead: ""
        support: ""
-    - "4:30PM - 5:00PM":
-       title: "Life After WDI, Feedback"
-       url: "https://github.com/ga-dc/after-wdi"
+  - day:
+    - "2:30PM - 4:30PM":
+       title: "Portfolio Reviews"
+       url: "https://github.com/ga-dc/outcomes/tree/master/roadmap/week13"
+       lead: ""
+       support: ""
+  - day:
+    - "9:00AM - 5:00PM":
+       title: "Post WDI"
+       url: ""
+       lead: ""
+       support: ""
+  - day:
+    - "10:00AM - 3:30PM":
+       title: "Outcomes Bootcamp"
+       url: "https://github.com/ga-dc/outcomes/blob/master/roadmap/Outcomes%20Bootcamp/readme.md"
+       lead: ""
+       support: ""
+  - day:
+    - "9:00AM - 5:00PM":
+       title: "Post WDI"
+       url: ""
+       lead: ""
+       support: ""
+  - day:
+    - "9:00AM - 5:00PM":
+       title: "Post WDI"
+       url: ""
+       lead: ""
+       support: ""
+  - day:
+    - "4:00PM - 6:30PM":
+       title: "Student Spotlight"
+       url: "https://github.com/ga-dc/outcomes/blob/master/roadmap/Student%20Spotlight/readme.md"
+       lead: ""
+       support: ""
+  - day:
+    - "9:00AM - 5:00PM":
+       title: "Post WDI"
+       url: ""
+       lead: ""
+       support: ""
+  - day:
+    - "9:00AM - 5:00PM":
+       title: "Post WDI"
+       url: ""
        lead: ""
        support: ""
   - day:
