@@ -1013,11 +1013,15 @@
        url: "https://github.com/ga-wdi-exercises/mean-lab"
        lead: "Angel"
        support: ""
-    - "2:30PM - 5:00 PM":
+    - "2:30PM - 4:30 PM":
        title: "Outcomes: Ask the Experts Panel Discussion (Hiring Managers and Recruiters)"
        url: "https://github.com/ga-dc/outcomes/tree/master/roadmap/week10"
        lead: ""
        support: "Adrian"
+    - "4:30PM - 5:00 PM":
+       title: "Squad Scrum"
+       lead: ""
+       support: ""
     - "5:00PM":
        title: "Due At 5: MEAN Lab"
        color: red
