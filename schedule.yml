@@ -1100,8 +1100,9 @@
        support: ""
   - day:
     - "9:00AM - 10:00AM":
-       title: "Code Challenge"
-       lead: "Adrian"
+       title: "Outcomes Prep"
+       url: ""
+       lead: ""
        support: ""
     - "10:00AM - 12:30PM":
        title: "React Router"
@@ -1126,9 +1127,8 @@
        lead: ""
        support: ""
     - "9:00AM - 10:00AM":
-       title: "Outcomes Prep"
-       url: ""
-       lead: ""
+       title: "Code Challenge"
+       lead: "Adrian"
        support: ""
     - "10:00AM - 12:30PM":
        title: "Lab: React Router"
