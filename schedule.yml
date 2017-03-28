@@ -1134,6 +1134,12 @@
        url: ""
        lead: "James"
        support: "Angel"
+    - "05:00PM":
+       title: "Due At 5: Lab"
+       color: red
+       url: "https://github.com/ga-wdi-exercises/react-router-lab"
+       lead: ""
+       support: ""
     - "6:00PM - 8:00PM":
        title: "Office Hours"
        lead: ""
