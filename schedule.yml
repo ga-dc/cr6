@@ -1074,12 +1074,6 @@
        lead: "Adrian"
        support: ""
   - day:
-    - "9:00AM":
-       title: "Due At 9: HW"
-       url: "https://github.com/ga-wdi-exercises/todo-app-react"
-       color: red
-       lead: ""
-       support: ""
     - "9:00AM - 10:00AM":
        title: "Review"
        lead: "Nayana"
@@ -1145,6 +1139,11 @@
        lead: ""
        support: ""
   - day:
+    - "9:00AM":
+       title: "Due At 9: Homework"
+       color: red
+       url:
+         - Todo App React: "https://github.com/ga-wdi-exercises/todo-app-react"
     - "9:00AM - 10:00AM":
        title: "Slips"
        url: "https://github.com/ga-dc/slips"
